@@ -1,9 +1,9 @@
 # Face-detection-and-recognition
-##Libraries 
+## Libraries 
 > opencv
 > os
 > numpy
-##Project Description
+## Project Description
 I have created a very basic Facial recognition system using Cascade classifier and KNN for training and predicting the results.
 First in my face_data_collect.py file i have collected data for the training purpose.I have converted each captured in
 grayScale(converted to 1 channel) so that computation is reduced.I tried Gaussian blur at each frame but results were not
