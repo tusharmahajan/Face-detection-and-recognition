@@ -1,7 +1,9 @@
 # Face-detection-and-recognition
 ## Libraries 
 1.) OpenCv
+
 2.) OS
+
 3.) Numpy
 ## Project Description
 I have created a very basic Facial recognition system using Cascade classifier and KNN for training and predicting the results.
